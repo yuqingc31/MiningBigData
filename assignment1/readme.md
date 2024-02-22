@@ -58,3 +58,6 @@ Tdewpoint 露点
 rv1 随机变量1
 
 rv2 随机变量2
+
+关于本次作业：
+    建议大家参考workshop w2和4的代码
